@@ -25,7 +25,7 @@
 1,albania,greece,12
 76,india,japan,12
 77,india,pakistan,12
-99,"korea, republic of",united states,12
+99,south korea,united states,12
 23,cambodia,united states,11
 25,china,france,11
 80,india,united kingdom,11
@@ -56,7 +56,7 @@
 94,japan,united kingdom,6
 18,belgium,netherlands,6
 9,australia,united kingdom,6
-98,"korea, democratic people's republic of",united states,6
+98,north korea,united states,6
 7,australia,canada,6
 100,latvia,lithuania,6
 6,angola,portugal,6
@@ -70,17 +70,17 @@
 120,thailand,united kingdom,6
 71,guam,united states,6
 0,albania,bulgaria,6
-28,china,"korea, democratic people's republic of",6
+28,china,north korea,6
 22,cambodia,laos,6
 50,france,laos,6
 52,france,poland,6
 68,ghana,united kingdom,6
-31,cuba,"korea, democratic people's republic of",6
+31,cuba,north korea,6
 46,finland,romania,6
 56,france,vietnam,6
 45,finland,lithuania,6
 29,china,mongolia,6
-24,canada,"korea, republic of",6
+24,canada,south korea,6
 35,czechia,united kingdom,6
 64,germany,ukraine,6
 63,germany,sweden,6
@@ -102,7 +102,7 @@
 33,cuba,vietnam,5
 19,belgium,poland,5
 39,egypt,iraq,5
-88,japan,"korea, republic of",5
+88,japan,south korea,5
 51,france,philippines,5
 17,belgium,luxembourg,5
 14,belarus,russia,5
@@ -117,8 +117,8 @@
 114,portugal,seychelles,4
 57,germany,iraq,4
 107,mozambique,russia,4
-96,"korea, democratic people's republic of",russia,4
+96,north korea,russia,4
 78,india,papua new guinea,2
-97,"korea, democratic people's republic of",rwanda,2
+97,north korea,rwanda,2
 92,japan,spain,1
 79,india,south africa,1
