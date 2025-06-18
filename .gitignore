@@ -1,0 +1,9 @@
+-e "venv/\nlib/\n__pycache__/\n*.py[cod]\n.vscode/\n.ipynb_checkpoints/\n.DS_Store\nThumbs.db" 
+.venv/ 
+lib/ 
+__pycache__/ 
+*.py[cod] 
+.vscode/ 
+.ipynb_checkpoints/ 
+.DS_Store 
+Thumbs.db 
